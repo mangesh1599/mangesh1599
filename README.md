@@ -8,7 +8,7 @@
 
 - 📫 How to reach me *mangeshdalvi159915@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GptKdfr-kkSdJvKCA-7D2PWWxeVW0m3B/view?(usp=share_link]https://drive.google.com/file/d/1dVey1WuMrrWHdHTEcuGePSoni0WusZEq/view?usp=share_link)
+- 📄 Know about my experiences (usp=share_link]https://drive.google.com/file/d/1dVey1WuMrrWHdHTEcuGePSoni0WusZEq/view?usp=share_link)
 - ⚡ Fun Fact *Working on myself*
 
 <h3 align="left">Connect with me:</h3>
