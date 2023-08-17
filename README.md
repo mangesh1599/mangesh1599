@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mangesh-dalvi-94754a1b2/" target="https://www.linkedin.com/in/mangesh-dalvi-94754a1b2/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mangesh-dalvi" height="30" width="40" /></a>
 <a href="https://instagram.com/mindset_programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mindset_programmer" height="30" width="40" /></a>
-
 <a href="https://www.hackerrank.com/mangeshdalvi1591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mangeshdalvi1591" height="30" width="40" /></a>
 </p>
 
