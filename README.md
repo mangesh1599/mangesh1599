@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mangesh1599&label=Profile%20views&color=0e75b6&style=flat" alt="mangesh1599" /> </p>
 
-- 🌱 I’m currently learning *Core JAVA , SQL, Angular JS,TypeScript ,Spring Boot , Hibernet*
+- 🌱 I’m currently learning *Core JAVA , SQL, Angular JS,TypeScript ,Spring Boot , Kotlin, Javascript*
 
 - 📫 How to reach me *mangeshdalvi159915@gmail.com*
 
